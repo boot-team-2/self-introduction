@@ -1,10 +1,20 @@
 # self-introduction
 
-name : 조성훈
-혈액형 : b (RH+)
-생일 : 9월 1일
-mbti : INTJ
-hello world
+- 이름: 이성현
+- 혈액형: B형
+- 생일: 07.28
+- MBTI: ENTP
+- 안녕하세요
+
+# =======
+
+- name : 조성훈
+- 혈액형 : b (RH+)
+- 생일 : 9월 1일
+- mbti : INTJ
+- hello world
+
+# =========
 
 - 안녕하세요
 - 제 이름은 황석준입니다
